@@ -1,5 +1,5 @@
 'use client';
-import { Canvas } from 'react-three-fiber'
+import { Canvas } from '@react-three/fiber'
 import { OrbitControls, Stars } from '@react-three/drei'	
 import OfficeScene from '../components/officescene'
 
